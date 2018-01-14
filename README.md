@@ -1,4 +1,5 @@
 # WiShare
+## Bu Proje Visual Studio 15/17 Destekler Daha Onceki Surumler icin Convert Gerekir.
 ## DESTEK
 ### Bilgi
 
