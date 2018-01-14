@@ -1,0 +1,12 @@
+D:\Projeler\projeler\WiShare\WiShare\bin\Debug\WiShare.exe.config
+D:\Projeler\projeler\WiShare\WiShare\bin\Debug\WiShare.exe
+D:\Projeler\projeler\WiShare\WiShare\bin\Debug\WiShare.pdb
+D:\Projeler\projeler\WiShare\WiShare\bin\Debug\WiShare.xml
+D:\Projeler\projeler\WiShare\WiShare\obj\Debug\WiShare.vbprojResolveAssemblyReference.cache
+D:\Projeler\projeler\WiShare\WiShare\obj\Debug\WiShare.Form1.resources
+D:\Projeler\projeler\WiShare\WiShare\obj\Debug\WiShare.Resources.resources
+D:\Projeler\projeler\WiShare\WiShare\obj\Debug\WiShare.vbproj.GenerateResource.Cache
+D:\Projeler\projeler\WiShare\WiShare\obj\Debug\WiShare.exe
+D:\Projeler\projeler\WiShare\WiShare\obj\Debug\WiShare.xml
+D:\Projeler\projeler\WiShare\WiShare\obj\Debug\WiShare.pdb
+D:\Projeler\projeler\WiShare\WiShare\obj\Debug\WiShare.Form2.resources
