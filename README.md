@@ -1,5 +1,6 @@
 # WiShare
 ## Bu Proje Visual Studio 15/17 Destekler Daha Onceki Surumler icin Convert Gerekir.
+## .NET Framework 4.6 Gerektirir.
 ## DESTEK
 ### Bilgi
 
